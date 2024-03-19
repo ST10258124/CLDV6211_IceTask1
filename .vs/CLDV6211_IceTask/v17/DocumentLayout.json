@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|c:\\users\\vivek\\source\\repos\\cldv6211_icetask\\cldv6211_icetask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|solutionrelative:cldv6211_icetask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|c:\\users\\vivek\\source\\repos\\cldv6211_icetask\\cldv6211_icetask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|solutionrelative:cldv6211_icetask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|c:\\users\\vivek\\source\\repos\\cldv6211_icetask\\cldv6211_icetask\\views\\musics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|solutionrelative:cldv6211_icetask\\views\\musics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|c:\\users\\vivek\\source\\repos\\cldv6211_icetask\\cldv6211_icetask\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|solutionrelative:cldv6211_icetask\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|c:\\users\\vivek\\source\\repos\\cldv6211_icetask\\cldv6211_icetask\\controllers\\musicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|solutionrelative:cldv6211_icetask\\controllers\\musicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|c:\\users\\vivek\\source\\repos\\cldv6211_icetask\\cldv6211_icetask\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70B86F2-AD07-4D13-ACFE-6E24E7A724C3}|CLDV6211_IceTask\\CLDV6211_IceTask.csproj|solutionrelative:cldv6211_icetask\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211_IceTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CLDV6211_IceTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:02:29.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Views\\Musics\\Index.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211_IceTask\\Views\\Musics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Views\\Musics\\Index.cshtml",
+              "RelativeToolTip": "CLDV6211_IceTask\\Views\\Musics\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:40:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Controllers\\MusicsController.cs",
+              "RelativeDocumentMoniker": "CLDV6211_IceTask\\Controllers\\MusicsController.cs",
+              "ToolTip": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Controllers\\MusicsController.cs",
+              "RelativeToolTip": "CLDV6211_IceTask\\Controllers\\MusicsController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwKQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:30:16.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "CLDV6211_IceTask\\Models\\Music.cs",
+              "ToolTip": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Models\\Music.cs",
+              "RelativeToolTip": "CLDV6211_IceTask\\Models\\Music.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:16:11.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211_IceTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CLDV6211_IceTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA4AAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T19:11:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "CLDV6211_IceTask\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Vivek\\source\\repos\\CLDV6211_IceTask\\CLDV6211_IceTask\\Models\\SeedData.cs",
+              "RelativeToolTip": "CLDV6211_IceTask\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:46:47.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
